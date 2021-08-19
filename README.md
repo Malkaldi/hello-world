@@ -1,3 +1,3 @@
-# hello-world
-# A beginner programmer here
-Interested in AI and Web dev
+# Hello-world
+ A beginner programmer here
+//Interested in AI and Web dev
