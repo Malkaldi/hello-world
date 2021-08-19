@@ -1,2 +1,3 @@
 # hello-world
-first repository for trial purposes
+A beginner programmer here
+Interested in AI and Web dev
